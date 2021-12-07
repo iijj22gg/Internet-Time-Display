@@ -18,3 +18,9 @@ You've found one of the simplest Discord bots ever. No seriously, all you can do
 <hr>
 
 <button onclick="window.location.href='https://discord.com/api/oauth2/authorize?client_id=917521502985945139&scope=bot'; method='get'; target='_blank'; rel='noopener noreferrer'">Add to your server!</button> [Privacy Policy](https://iijj22gg.github.io/Internet-Time-Display/privacypolicy)
+
+<hr>
+
+<a href="https://top.gg/bot/917521502985945139">
+  <img src="https://top.gg/api/widget/917521502985945139.svg">
+</a><a href="https://discordbotlist.com/bots/917521502985945139"><img src="https://discordbotlist.com/api/v1/bots/917521502985945139/widget"></a>
