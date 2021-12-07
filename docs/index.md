@@ -15,4 +15,6 @@ You have a handy dandy clock so you don't have to look away from Discord to find
 
 You've found one of the simplest Discord bots ever. No seriously, all you can do is look at the time.
 
+<hr>
+
 <button onclick="href= 'https://discord.com/api/oauth2/authorize?client_id=917521502985945139&scope=bot' target='_blank' rel='noopener noreferrer'">Add to your server!</button>
