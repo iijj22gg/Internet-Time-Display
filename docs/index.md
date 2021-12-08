@@ -2,7 +2,7 @@
 
 ### What is Internet Time?
 
-Swatch Internet Time was created by Swatch corporation in 1998 to solve timezone confusion when communincating on the internet, and to market a new line of watches. Days are divided into 1,000 equal parts called beats, which do not have timezones. @000 lines up with midnight UTC+1 (Central European Time, West Africa Time).
+Swatch Internet Time was created by Swatch corporation in 1998 to solve timezone confusion when communicating on the internet, and to market a new line of watches. Days are divided into 1,000 equal parts called beats, which do not have timezones. @000 lines up with midnight UTC+1 (Central European Time, West Africa Time).
 
 Here's an example. Let's say that you've just made a new friend online, but you have to go finish a project and will be back tomorrow. You tell him that you'll be back at 7:00 AM. Now, you live in Alaska, but little do you know, he lives in New York! He comes back at 7:00 AM, and you're still asleep!
 Internet Time fixes the problem. You later apologize and tell him you'll be back at @708 the next day. He comes back at the appointed time, and you're there!
