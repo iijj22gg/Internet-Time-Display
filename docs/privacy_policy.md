@@ -16,7 +16,6 @@ Discord shows the number of servers the bot is being used in when you're adding 
 Please contact iijj22gg#2799 on the [Internet Time Discord server](https://discord.gg/WTu2zFdV67) if you have any questions.
 
 <hr>
-
 ##### This policy is subject to change on short notice
 
 <hr>
