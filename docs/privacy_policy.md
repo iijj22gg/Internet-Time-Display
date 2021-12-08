@@ -3,7 +3,7 @@ title: "Privacy Policy"
 permalink: /privacypolicy/
 ---
 
-<h2><center>By using the Internet Time Display Discord bot, you agree to the following:</center></h2>
+<h2><center>By using the Internet Time Display Discord bot, you agree to the following privacy policy:</center></h2>
 
 ### What data is stored?
 Just the number of servers the bot is in, handled by Discord. The bot by itself does not store any data.
