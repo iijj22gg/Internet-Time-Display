@@ -15,6 +15,8 @@ You have a handy dandy clock so you don't have to look away from Discord to find
 
 You've found one of the simplest Discord bots ever. No seriously, all you can do is look at the time.
 
+#### [Join the Internet Time Community!](https://discord.gg/WTu2zFdV67)
+
 <hr>
 
 <button onclick="window.location.href='https://discord.com/api/oauth2/authorize?client_id=917521502985945139&scope=bot'; method='get'; target='_blank'; rel='noopener noreferrer'">Add to your server!</button> [Privacy Policy](./privacypolicy)
