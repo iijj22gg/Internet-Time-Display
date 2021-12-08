@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy Policy"
 permalink: /privacypolicy/
+---
 
 <h2><center>By using the Internet Time Display Discord bot, you agree to the following:</center></h2>
 
