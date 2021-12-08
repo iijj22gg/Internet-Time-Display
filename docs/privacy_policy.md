@@ -21,4 +21,4 @@ Please contact iijj22gg#2799 on the [Internet Time Discord server](https://disco
 
 <hr>
 
-<button onclick="window.location.href='https://discord.com/api/oauth2/authorize?client_id=917521502985945139&scope=bot'; method='get'; target='_blank'; rel='noopener noreferrer'">Add to your server!</button> [Back to homepage](https://iijj22gg.github.io/Internet-Time-Display/
+<button onclick="window.location.href='https://discord.com/api/oauth2/authorize?client_id=917521502985945139&scope=bot'; method='get'; target='_blank'; rel='noopener noreferrer'">Add to your server!</button> [Back to homepage](https://iijj22gg.github.io/Internet-Time-Display/)
