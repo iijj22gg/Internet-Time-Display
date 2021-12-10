@@ -23,6 +23,8 @@ You've found one of the simplest Discord bots ever. No seriously, all you can do
 
 <hr>
 
+[Botlist Status](./botlist/)
+
 <a href="https://top.gg/bot/917521502985945139">
   <img src="https://top.gg/api/widget/917521502985945139.svg">
 </a><a href="https://discordbotlist.com/bots/917521502985945139"><img src="https://discordbotlist.com/api/v1/bots/917521502985945139/widget"></a>
