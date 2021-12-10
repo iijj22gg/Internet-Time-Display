@@ -13,6 +13,7 @@ async def status():
     minute = int(time.strftime("%M", time.gmtime()))
     second = int(time.strftime("%S", time.gmtime()))
     bTime = floor(((second + minute * 60) + (hour + 1) * 3600) / 86.4)
+    if bTime > 1000: bTime = bTime - 1000
     if bTime < 100:
         if bTime < 10: bTime = "00" + str(bTime)
         else: bTime = "0" + str(bTime)
