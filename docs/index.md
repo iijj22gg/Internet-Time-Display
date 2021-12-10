@@ -23,7 +23,7 @@ You've found one of the simplest Discord bots ever. No seriously, all you can do
 
 <hr>
 
-[Botlist Status](./botlist/)
+[Botlist Status](./botlists/)
 
 <a href="https://top.gg/bot/917521502985945139">
   <img src="https://top.gg/api/widget/917521502985945139.svg">
