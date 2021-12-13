@@ -27,4 +27,5 @@ You've found one of the simplest Discord bots ever. No seriously, all you can do
 
 <a href="https://top.gg/bot/917521502985945139">
   <img src="https://top.gg/api/widget/917521502985945139.svg">
-</a><a href="https://discordbotlist.com/bots/917521502985945139"><img src="https://discordbotlist.com/api/v1/bots/917521502985945139/widget"></a>
+</a><a href="https://discordbotlist.com/bots/917521502985945139"><img src="https://discordbotlist.com/api/v1/bots/917521502985945139/widget"></a><a href="https://discords.com/bots/bots/917521502985945139" >
+            <img src="https://discords.com/bots/api/bot/917521502985945139/widget" title="Visit Internet Time listed on Discords.com!" alt="Internet Time's Widget Failed to Load" /></a>
