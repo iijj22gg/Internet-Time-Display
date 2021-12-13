@@ -26,3 +26,7 @@ permalink: /botlists/
 ### Disforge
 ##### [Server listing](https://disforge.com/server/54036-internet-time-community)
 - Submitted December 10, 2021; Pending
+
+<hr>
+
+<button onclick="window.location.href='https://discord.com/api/oauth2/authorize?client_id=917521502985945139&scope=bot'; method='get'; target='_blank'; rel='noopener noreferrer'">Add to your server!</button> [Back to homepage](https://iijj22gg.github.io/Internet-Time-Display/)
