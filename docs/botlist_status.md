@@ -25,8 +25,8 @@ permalink: /botlists/
 - Submitted December 10, 2021; Approved 12 minutes later
 
 ### Disforge
-##### [Server listing](https://disforge.com/server/54036-internet-time-community)
-- Submitted December 10, 2021; Pending
+##### ~~Server listing~~ removed by iijj22gg
+- Submitted December 10, 2021; Declined December 15, 2021 (Help command required)
 
 <hr>
 
