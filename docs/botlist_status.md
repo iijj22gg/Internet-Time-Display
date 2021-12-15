@@ -6,39 +6,39 @@ permalink: /botlists/
 ### [Discord Bot List](https://discordbotlist.com/bots/internet-time)
 - Autoapproved December 7, 2021
 
-
+<br>
 
 ### [Top.gg](https://top.gg/bot/917521502985945139)
 ##### [Server listing](https://top.gg/servers/917857859453218836)
 - Submitted December 7, 2021; Pending
 
-
+<br>
 
 ### [Discord Labs](https://bots.discordlabs.org/bot/917521502985945139)
 - Submitted December 7, 2021; Declined December 8, 2021 ("Improve Long Description")
 - Ticket opened December 8, 2021; Closed December 14, 2021
 - Resubmitted December 13, 2021; Approved December 14, 2021
 
-
+<br>
 
 ### [Discord Extreme List (Delly)](https://discordextremelist.xyz/en-US/bots/917521502985945139)
 ##### [Server listing](https://discordextremelist.xyz/en-US/servers/917857859453218836)
 - Submitted December 7, 2021; Declined same day (Privacy Policy 404)
 - Resubmitted December 8, 2021; Pending
 
-
+<br>
 
 ### [Discords](https://discords.com/bots/bot/917521502985945139)
 ##### [Server Listing](https://discords.com/servers/917857859453218836)
 - Submitted December 10, 2021; Approved 12 minutes later
 
-
+<br>
 
 ### Disforge
 ##### ~~Server listing~~ removed by iijj22gg
 - Submitted December 10, 2021; Declined December 15, 2021 (Help command required)
 
-
+<br>
 
 <hr>
 
