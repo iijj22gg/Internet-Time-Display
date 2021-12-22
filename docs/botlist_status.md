@@ -10,7 +10,7 @@ permalink: /botlists/
 
 ### [Top.gg](https://top.gg/bot/917521502985945139)
 ##### [Server listing](https://top.gg/servers/917857859453218836)
-- Submitted December 7, 2021; Pending
+- Submitted December 7, 2021; Approved December 22, 2021
 
 <br>
 
