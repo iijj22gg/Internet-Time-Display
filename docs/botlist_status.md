@@ -24,7 +24,7 @@ permalink: /botlists/
 ### [Discord Extreme List (Delly)](https://discordextremelist.xyz/en-US/bots/917521502985945139)
 ##### [Server listing](https://discordextremelist.xyz/en-US/servers/917857859453218836)
 - Submitted December 7, 2021; Declined same day (Privacy Policy 404)
-- Resubmitted December 8, 2021; Pending
+- Resubmitted December 8, 2021; Declined January 17, 2022 ("Low quality bot with no actual features or commands.")
 
 <br>
 
