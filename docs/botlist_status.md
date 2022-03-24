@@ -4,6 +4,7 @@ permalink: /botlists/
 ---
 
 ### [Discord Bot List](https://discordbotlist.com/bots/internet-time)
+##### [Server listing](https://discordbotlist.com/servers/internet-time-community)
 - Autoapproved December 7, 2021
 
 <br>
