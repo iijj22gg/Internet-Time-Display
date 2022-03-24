@@ -11,9 +11,9 @@ You can read more on the [Wikipedia article](https://en.wikipedia.org/wiki/Swatc
 
 ### What can you do with this bot?
 
-You have a handy dandy clock so you don't have to look away from Discord to find the current Internet Time!
+You can have a handy clock so you don't have to look away from Discord to find the current Internet Time!
 
-You've found one of the simplest Discord bots ever. No seriously, all you can do is look at the time.
+That's it. You've found one of the simplest Discord bots ever. No seriously, all you can do is look at the time.
 
 #### [Join the Internet Time Community!](https://discord.gg/WTu2zFdV67)
 
