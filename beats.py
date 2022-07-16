@@ -26,6 +26,7 @@ async def status():
 @bot.event
 async def on_ready():
     print('Logged in as {0.user}'.format(bot))
-    await status.start()
+    try: await status.start()
+    except: pass
 
 bot.run('token')
