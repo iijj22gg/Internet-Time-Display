@@ -29,4 +29,4 @@ async def on_ready():
     try: await status.start()
     except: pass
 
-client.run('OTE3NTIxNTAyOTg1OTQ1MTM5.GjW7rG.vac0Sos4HsDt7Lm4KKIoJzl8AfL8Xnr9cWX44I')
+client.run('TOKEN')
