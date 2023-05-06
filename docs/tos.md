@@ -11,7 +11,7 @@ By inviting this bot, you acknoledge that you have the privilidge to use the bot
 ### Affiliation
 The Bot is not affiliated with, supported or made by Discord Inc. or The Swatch Group.
 Any direct connection to Discord, The Swatch Group or any of their Trademark objects is purely coincidental. We do not claim to have the copyright ownership of any of Discord's or The Swatch Group's assets, trademarks or other intellectual property.
-All assets come from the public domain.
+All assets used are open source, from the public domain, or used in accordance with the source's licences or terms of service.
 
 ### Inquirys
 Please contact iijj22gg#2799 on the [Internet Time Discord server](https://discord.gg/WTu2zFdV67) if you have any questions.
